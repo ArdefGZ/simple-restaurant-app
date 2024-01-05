@@ -1,4 +1,4 @@
-# firebase_project
+# SIMPLE RESTAURANT APP
 
 A new Flutter project.
 
