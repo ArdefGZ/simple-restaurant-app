@@ -1,4 +1,4 @@
-# SIMPLE RESTAURANT APP
+I am editing the README file. Adding some more details about the project description.# SIMPLE RESTAURANT APP
 
 A new Flutter project.
 
